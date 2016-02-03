@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Charles McCallum]]></title>
+        <description><![CDATA[Charles McCallum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 02:52:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Charles McCallum]]></title>
+            <description><![CDATA[<article><h1>Charles McCallum</h1><p>Charles is the Discipleship Pastor at Old Fort Baptist Church in Summerville, SC.  He is a graduate of the College of Charleston (BA in Communication) and Southeastern Baptist Theological Seminary (Master of Divinity in Christian Ministry) where he is currently working on a Doctorate of Education. Charles has a strong desire to see growth as disciples of Jesus Christ. He believes that man, having been made in the image of God, was made for relationship. Charles values relationship in community as a part of a Christian’s spiritual development and growth.</p></article>]]></description>
+            <link>undefinedcharles-mccallum/index.html</link>
+            <guid isPermaLink="false">319b1a34-46ee-4457-8b48-7ab6f816f0f6</guid>
+            <pubDate>Wed, 03 Feb 2016 02:52:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
