@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0
+  saturation: 0.007168459
   brandStrength: 1
   lightness: 0.7992831
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#C55C31'
     - '#FDF8C8'
     - '#774B30'
-  rhythmicContrast: 0.7903226
+  rhythmicContrast: 0.1630824
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: CharlesMcCallum
 favicon: null
+name: CharlesMcCallum
 opengraph:
   image: null
   type: null
