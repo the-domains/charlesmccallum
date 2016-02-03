@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.007168459
   brandStrength: 1
-  lightness: 0.7992831
+  lightness: 1
   brandColors:
     - '#1D1718'
     - '#B6AAA2'
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.86881
+typography_spectrum: 0.0609319
 layout_spectrum: 0.5788531
