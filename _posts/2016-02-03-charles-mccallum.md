@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-03T04:23:41.141Z'
-dateModified: '2016-02-03T04:07:52.746Z'
+datePublished: '2016-02-03T04:41:26.805Z'
+dateModified: '2016-02-03T04:40:49.358Z'
 title: Charles McCallum
 author: []
 sourcePath: _posts/2016-02-03-charles-mccallum.md
