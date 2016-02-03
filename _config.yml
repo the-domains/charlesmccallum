@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 0.75
+  lightness: 0.7992831
   brandColors:
     - '#000000'
     - '#c8be9a'
     - '#47645f'
     - '#00591d'
     - '#3e7d0d'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.7903226
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: CharlesMcCallum
 favicon: null
+name: CharlesMcCallum
 opengraph:
   image: null
   type: null
